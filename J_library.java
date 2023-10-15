@@ -32,7 +32,6 @@ class J_library{
 
         System.out.println("\n\n**** Book Catelog ****");
         b1.view();
-
         b2.view();
         b3.view();
         b4.view();
