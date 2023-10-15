@@ -12,7 +12,7 @@ class A_calculate {
         sum = num_1 + num_2;
         product = num_1 * num_2;
         difference = num_1 - num_2;
-        divide = ((num_1) / (num_2));
+        divide = (float) num_1/num_2;
 
         System.out.println("Given values are " + num_1 + " and " + num_2);
         System.out.println("SUM : " + sum);
