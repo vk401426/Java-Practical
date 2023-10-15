@@ -1,4 +1,4 @@
-//1. WAP in Java to add ,substract ,multiply ,divide using 2 variables .
+//1. WAP in Java to add ,substract ,multiply ,divide using 2 variable s .
 
 import java.lang.*;
 
