@@ -10,7 +10,7 @@ class book {
         title=t;
         author=a;
         ISBN=i;
-        System.out.println(" Book initialised :  B"+1);
+        System.out.println(" Book initialised :  B"+n);
     }
     void view()
     {
